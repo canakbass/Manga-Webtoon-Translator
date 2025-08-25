@@ -49,20 +49,38 @@ Terminalde aşağıdaki komutu çalıştırarak projeyi başlatın:
 python manga_translator.py
 
 Klasör Yapısı
+
 /manga-translator-projesi
+
 |-- manga_translator.py
+
 |-- arial.ttf (önerilen font)
+
 |-- /Giris (input_root)
+
 |   |-- /Bolum1
+
 |   |   |-- 01.jpg
+
 |   |   |-- 02.jpg
+
 |   |-- /Bolum2
+
 |   |   |-- 01.png
+
 |   |   |-- 02.png
+
 |-- /Cikis (output_root)
+
 |   |-- /Bolum1
+
 |   |   |-- stitched_translated_01.jpg
+
 |   |   |-- translated_01_001.jpg
+
 |   |-- /Bolum2
+
 |   |   |-- stitched_translated_01.jpg
+
 |   |   |-- translated_01_001.jpg
+
